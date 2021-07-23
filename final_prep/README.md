@@ -83,12 +83,19 @@ Depending on if you are in Section A or B, you have anywhere between 1.5-3.5 wee
 
 What is your plan and how are you going to hold yourself to it? Specifically...
 - What are you going to work on? [Resources here](https://github.com/turingschool-examples/fe-m1-practice)
+I'm going to work on the extra extensions from the mod 1 prework.
 - What days are you going to work?
+Everyday
 - What times on those days are you going to work?
+a couple hours everyday.
 - Where you going to be sitting/standing as you do this?
+sitting
 - Where are you documenting this plan? Google Calendar, calendar on your wall, your journal?
+Google calendar.
 - Do any stakeholders in your life know about this plan? (The answer needs to be yes by the time you answer this...)
+YES
 - What personal items/events are important to you during this time? How are you going to make sure those are not neglected? (Hint, block time on the calendar for them!)
+Thereapy is important to me during this time. Seeing my doctor is important during this time. 
 
 ## Extensions
 Check out our thoughts on [extension activities](https://mod0.turing.io/prework/extensions) if you find yourself with some extra time before starting Mod 1!
